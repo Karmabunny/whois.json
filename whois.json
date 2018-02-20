@@ -2,16 +2,16 @@
 	"messagingengine.com": {
 		"name": "FastMail",
 		"legal": "FastMail Pty Ltd",
-		"url": "https://www.fastmail.com/",
+		"url": "https://www.fastmail.com/"
 	},
 	"on.net": {
 		"name": "Internode",
 		"url": "https://www.internode.on.net/",
-		"owner": ["iiNet", "TPG Telecom"],
+		"owner": ["iiNet", "TPG Telecom"]
 	},
 	"secureserver.net": {
 		"name": "GoDaddy",
 		"legal": "GoDaddy.com, LLC",
-		"url": "https://www.godaddy.com/",
+		"url": "https://www.godaddy.com/"
 	}
 }
