@@ -1,7 +1,27 @@
 {
+	"DoubleClick": {
+		"owner": "Google",
+		"url": "https://www.doubleclickbygoogle.com/"
+	},
 	"FastMail": {
 		"legal": "FastMail Pty Ltd",
 		"url": "https://www.fastmail.com/"
+	},
+	"Google": {
+		"url": "https://www.google.com"
+	},
+	"Google AdWords": {
+		"owner": "Google"
+	},
+	"Google Tag Manager": {
+		"owner": "Google",
+	},
+	"Google Analytics": {
+		"owner": "Google",
+	},
+	"GumGum": {
+		"url": "https://gumgum.com/",
+		"tagline": "Applied Computer Vision",
 	},
 	"Internode": {
 		"url": "https://www.internode.on.net/",
@@ -9,6 +29,11 @@
 	},
 	"iiNet": {
 		"owner": "TPG Telecom"
+	},
+	"TowerData": {
+		"url": "http://intelligence.towerdata.com/",
+		"tagline": "Email Intelligence, a TowerData Service",
+		"formerly": ["Rapleaf"],
 	},
 	"GoDaddy": {
 		"legal": "GoDaddy.com, LLC",

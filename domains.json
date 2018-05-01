@@ -1,7 +1,18 @@
 {
+	"adnxs.com": "AppNexus",
+	"bidswitch.net": "BidSwitch",
+	"doubleclick.net": "DoubleClick",
+	"facebook.net": "Facebook",
+	"googleadservices.com": "Google AdWords",
+	"googletagmanager.com": "Google Tag Manager",
+	"google-analytics.com": "Google Analytics",
+	"gumgum.com": "GumGum",
 	"messagingengine.com": "FastMail",
 	"mtasv.net": "Postmark",
 	"on.net": "Internode",
+	"openx.net": "OpenX",
+	"optnmnstr.com": "OptinMonster",
+	"rlcdn.com": "TowerData",
 	"secureserver.net": "GoDaddy",
 	"tiqcdn.com": "Tealium"
 }
