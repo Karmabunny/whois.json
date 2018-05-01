@@ -1,0 +1,7 @@
+{
+	"messagingengine.com": "FastMail",
+	"mtasv.net": "Postmark",
+	"on.net": "Internode",
+	"secureserver.net": "GoDaddy",
+	"tiqcdn.com": "Tealium"
+}
