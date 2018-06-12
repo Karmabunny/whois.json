@@ -1,6 +1,7 @@
 {
 	"adnxs.com": "AppNexus",
 	"bidswitch.net": "BidSwitch",
+	"bigpond.com": "Telstra",
 	"bs.serving-sys.com": "Sizmek",
 	"doubleclick.net": "DoubleClick",
 	"facebook.net": "Facebook",
@@ -15,5 +16,6 @@
 	"optnmnstr.com": "OptinMonster",
 	"rlcdn.com": "TowerData",
 	"secureserver.net": "GoDaddy",
-	"tiqcdn.com": "Tealium"
+	"tiqcdn.com": "Tealium",
+	"tmns.net.au": "Telstra"
 }
